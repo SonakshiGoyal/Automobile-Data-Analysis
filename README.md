@@ -2,7 +2,14 @@
 
 # CarScrunity App
 CarScrunity is a project based on Data Analytics that I have developed as a part of Microsoft Engage’22. This web application demonstrates how the Automotive Industry could harness data to make informed decisions.
-________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
+### Technology Stack:
+**Backend**:Python
+
+**Frontend**:Streamlit library
+
+**Deployed** using Streamlit share
+_______________________________________________________________________________________________________________________________________________________________________
 
 ### Access the website:
 1) Website link: https://share.streamlit.io/sonakshigoyal/automobile-data-analysis/main/app.py
