@@ -21,6 +21,9 @@ streamlit_option_menu==0.3.2
 protobuf~=3.19.0
 _________________________________________________________________________________________________________________________________________________________________________
 ### Features Implemented:
-
+1) **Univariate Analysis** : Used to find most popular car specification, according to different parameters
+2) **Bivariate Analysis** : Used to visualize and analyse variation of price on the basis of different parameters
+3) **Regression Analysis** : Use price predictor variables to predict price by 3 ML models: Multiple linear regression, Polynomial linear regression, Random Forest regression
+4) **Price Prediction** : By taking input values for predictor parameters predicting the price using Random Forest Regression
 
 
