@@ -1,7 +1,7 @@
 ## Automobile-Data-Analysis
 
-# CarScrunity App
-CarScrunity is a project based on Data Analytics that I have developed as a part of Microsoft Engage’22. This web application demonstrates how the Automotive Industry could harness data to make informed decisions.
+# CarScrutiny App
+CarScrutiny is a project based on Data Analytics that I have developed as a part of Microsoft Engage’22. This web application demonstrates how the Automotive Industry could harness data to make informed decisions.
 _______________________________________________________________________________________________________________________________________________________________________
 ### Technology Stack:
 **Backend**:Python
