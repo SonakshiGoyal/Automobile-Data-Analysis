@@ -1,4 +1,3 @@
-from asyncio.windows_events import NULL
 import streamlit as st
 import numpy as np
 import pandas as pd
@@ -15,8 +14,7 @@ st.set_page_config(
 col1,col2=st.columns([0.1,0.9])
 with col1:
    st.image("CarScrutiny logo.png",width=140)
-
-selected=NULL
+ 
 with col2:
    #main navigation bar
    selected = option_menu(
